@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.8.2
+Created-By: 17.0.8+9-LTS-jvmci-23.0-b14 (Oracle Corporation)
+Main-Class: application.Main
+
